@@ -1,0 +1,12 @@
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\bin\Debug\net8.0\EmployeeDirectoryWebApi.Models.deps.json
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\bin\Debug\net8.0\EmployeeDirectoryWebApi.Models.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\bin\Debug\net8.0\EmployeeDirectoryWebApi.Models.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.csproj.AssemblyReference.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.AssemblyInfoInputs.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.AssemblyInfo.cs
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\refint\EmployeeDirectoryWebApi.Models.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\EmployeeDirectoryWebApi.Models.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Models\obj\Debug\net8.0\ref\EmployeeDirectoryWebApi.Models.dll

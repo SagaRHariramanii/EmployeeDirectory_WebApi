@@ -1,0 +1,14 @@
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.csproj.AssemblyReference.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.AssemblyInfoInputs.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.AssemblyInfo.cs
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\bin\Debug\net8.0\EmployeeDirectoryWebApi.Data.deps.json
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\bin\Debug\net8.0\EmployeeDirectoryWebApi.Data.runtimeconfig.json
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\bin\Debug\net8.0\EmployeeDirectoryWebApi.Data.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\bin\Debug\net8.0\EmployeeDirectoryWebApi.Data.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\refint\EmployeeDirectoryWebApi.Data.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\EmployeeDirectoryWebApi.Data.genruntimeconfig.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Data\obj\Debug\net8.0\ref\EmployeeDirectoryWebApi.Data.dll

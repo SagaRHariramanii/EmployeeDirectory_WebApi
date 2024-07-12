@@ -1,0 +1,17 @@
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.csproj.AssemblyReference.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.AssemblyInfoInputs.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.AssemblyInfo.cs
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Services.deps.json
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Services.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Services.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Data.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Models.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Data.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\bin\Debug\net8.0\EmployeeDirectoryWebApi.Models.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\Employee.C71C2E76.Up2Date
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\refint\EmployeeDirectoryWebApi.Services.dll
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\EmployeeDirectoryWebApi.Services.pdb
+C:\Users\sagar.h\source\repos\EmployeeDirectoryWebApi\EmployeeDirectoryWebApi.Services\obj\Debug\net8.0\ref\EmployeeDirectoryWebApi.Services.dll

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362B91AB-8056-4180-BB8B-D54447DE7785}|Contoller\\EmployeeDirectoryWebApi.Controller.csproj|c:\\users\\sagar.h\\source\\repos\\employeedirectorywebapi\\contoller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B91AB-8056-4180-BB8B-D54447DE7785}|Contoller\\EmployeeDirectoryWebApi.Controller.csproj|solutionrelative:contoller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F332D2-FE82-4FF9-A57A-7AEE1AACEF5B}|EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj|c:\\users\\sagar.h\\source\\repos\\employeedirectorywebapi\\employeedirectorywebapi.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F332D2-FE82-4FF9-A57A-7AEE1AACEF5B}|EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj|solutionrelative:employeedirectorywebapi.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BE58A-400F-4BCB-A830-D2DBE60A638E}|EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj|c:\\users\\sagar.h\\source\\repos\\employeedirectorywebapi\\employeedirectorywebapi.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BE58A-400F-4BCB-A830-D2DBE60A638E}|EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj|solutionrelative:employeedirectorywebapi.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71BE58A-400F-4BCB-A830-D2DBE60A638E}|EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj|c:\\users\\sagar.h\\source\\repos\\employeedirectorywebapi\\employeedirectorywebapi.data\\models\\sagaremployeedirectorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71BE58A-400F-4BCB-A830-D2DBE60A638E}|EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj|solutionrelative:employeedirectorywebapi.data\\models\\sagaremployeedirectorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B91AB-8056-4180-BB8B-D54447DE7785}|Contoller\\EmployeeDirectoryWebApi.Controller.csproj|c:\\users\\sagar.h\\source\\repos\\employeedirectorywebapi\\contoller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B91AB-8056-4180-BB8B-D54447DE7785}|Contoller\\EmployeeDirectoryWebApi.Controller.csproj|solutionrelative:contoller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9609DEB-6473-4F79-8276-B616A8E5315E}|EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.csproj|c:\\users\\sagar.h\\source\\repos\\employeedirectorywebapi\\employeedirectorywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9609DEB-6473-4F79-8276-B616A8E5315E}|EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.csproj|solutionrelative:employeedirectorywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\Contoller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Contoller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\Contoller\\EmployeeController.cs",
+              "RelativeToolTip": "Contoller\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:08:27.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\Contoller\\RoleController.cs",
+              "RelativeDocumentMoniker": "Contoller\\RoleController.cs",
+              "ToolTip": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\Contoller\\RoleController.cs",
+              "RelativeToolTip": "Contoller\\RoleController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:25:14.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SagarEmployeeDirectoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\Models\\SagarEmployeeDirectoryDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeDirectoryWebApi.Data\\Models\\SagarEmployeeDirectoryDbContext.cs",
+              "ToolTip": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\Models\\SagarEmployeeDirectoryDbContext.cs",
+              "RelativeToolTip": "EmployeeDirectoryWebApi.Data\\Models\\SagarEmployeeDirectoryDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:22:50.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeDirectoryWebApi.Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeDirectoryWebApi.Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:55:22.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeDirectoryWebApi.Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeDirectoryWebApi.Data\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:51:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeDirectoryWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeDirectoryWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:18:05.48Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

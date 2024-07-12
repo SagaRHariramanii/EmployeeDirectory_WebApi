@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Services\\EmployeeDirectoryWebApi.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj",
+        "projectName": "EmployeeDirectoryWebApi.Data",
+        "projectPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj",
+        "packagesPath": "C:\\Users\\sagar.h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sagar.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj",
+        "projectName": "EmployeeDirectoryWebApi.Models",
+        "projectPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj",
+        "packagesPath": "C:\\Users\\sagar.h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sagar.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Services\\EmployeeDirectoryWebApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Services\\EmployeeDirectoryWebApi.Services.csproj",
+        "projectName": "EmployeeDirectoryWebApi.Services",
+        "projectPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Services\\EmployeeDirectoryWebApi.Services.csproj",
+        "packagesPath": "C:\\Users\\sagar.h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sagar.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj": {
+                "projectPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Data\\EmployeeDirectoryWebApi.Data.csproj"
+              },
+              "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj": {
+                "projectPath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

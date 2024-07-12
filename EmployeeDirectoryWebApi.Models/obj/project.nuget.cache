@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZZTqbdP6VOVcXAt8t77wBnoMj9yuK9v3xQBuf5YWHjAg+cXvnZ9y7neV/6v7VOA4YW5LoGDtHH9xAYNFRJkUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagar.h\\source\\repos\\EmployeeDirectoryWebApi\\EmployeeDirectoryWebApi.Models\\EmployeeDirectoryWebApi.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagar.h\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sagar.h\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
